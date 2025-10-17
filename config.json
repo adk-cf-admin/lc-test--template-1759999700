@@ -1,0 +1,207 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#11171F",
+            "lang-select-color": "#222829",
+            "bg-light": "#151C26",
+            "welcome-bonus-bg": "#d6dde6",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#f5f5f5",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#11171F",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#162b92",
+            "yellow": "#e12343",
+            "yellow-button": "#162b92",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#d6dde6",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#11171F",
+            "faq-label": "#d6dde6",
+            "bg-footer": "#11171F",
+            "copyright": "#e7e7d5",
+            "starColor": "#e12343",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "https:\/\/backend.builder.adkey.org:443\/api\/fonts\/download\/6",
+                "isCustom": true
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Canberra",
+            "title": "Casino Canberra | Luxury Table Games, Fine Dining & VIP Rewards",
+            "description": "Unlock exclusive bonuses at Casino Canberra! Play, earn, and enjoy luxury rewards. Don\u2019t wait\u2014join Infinity Rewards and elevate your gaming experience today!",
+            "canonical": "#",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/112",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "@pafcasino",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/113",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/114"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/105",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Canberra Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Casino Canberra \u2013 Premium Table Games & Exclusive Entertainment in the Heart of Canberra",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/106",
+            "imageSizeModifier": 20,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/108",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Exclusive  Games",
+                "Central Canberra Location",
+                "Luxury Dining at Natural Nine",
+                "Infinity Rewards VIP Program",
+                "Elegant Lounge Bars"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Canberra Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/111",
+            "imageSizeModifier": -20,
+            "imageYModifier": 5,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Canberra App",
+            "mobileGooglePlayImageTitle": "Casino Canberra App",
+            "mobileIosImageTitle": "Casino Canberra App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Top Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "Casino Canberra",
+                "description1": "",
+                "items": [
+                    "Exclusive Games",
+                    "Prize Pool: $3,000",
+                    "Advantage Program"
+                ],
+                "description2": "Casino Canberra delivers a premium entertainment experience in the heart of the city. Guests enjoy live table games including Blackjack, Roulette, and Baccarat, complemented by gourmet Asian-inspired dining at Natural Nine and signature cocktails at Onyx Lounge and Chandelier Bar. The Infinity Rewards program adds extra value with points redeemable for dining, drinks, and VIP perks. Open daily from 12 PM to 4 AM, Casino Canberra combines luxury, excitement, and style for an unforgettable Canberra experience.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/109",
+                "imageSizeModifier": 15,
+                "imageYModifier": -10,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino Canberra Rules & Dress Code",
+                "description": "\n  <h2>Entry Requirements<\/h2>\n  <p>All guests must present a valid photo ID; without ID, entry is not permitted. The minimum age for entry is 18 years.<\/p>\n<br>\n  <h2>Dress Code<\/h2>\n  <p>Smart casual attire is recommended. Steel-toe boots, work boots, clothing that obscures the face, torn, dirty, or offensive clothing, as well as activewear, swimwear, and sporting attire are not allowed. During evening hours, flip-flops and rubber thongs should be avoided.<\/p>\n<br>\n  <h2>Responsible Gaming<\/h2>\n  <p>Casino Canberra promotes a safe and enjoyable environment for all patrons. <\/p>\n<br>\n  <h2>Opening Hours<\/h2>\n  <p>Open daily from 12 PM to 4 AM.<\/p>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Bonuses Casino Canberra",
+                "description": "\n        <strong><h1>Popular Casino Games<\/h1>      <\/strong>\n  <ul>\n    <li><strong>Blackjack:<\/strong> A classic card game where players aim to beat the dealer by reaching 21 without going over.<\/li>\n    <li><strong>Roulette:<\/strong> Spin the wheel and bet on numbers, colors, or combinations for exciting payouts.<\/li>\n    <li><strong>Baccarat:<\/strong> A sophisticated game of chance where bets are placed on the player, banker, or a tie.<\/li>\n    <li><strong>Ultimate Texas Hold\u2019em:<\/strong> A poker variant where you play against the dealer with strategic betting rounds.<\/li>\n    <li><strong>Pai Gow:<\/strong> A unique game using domino-like tiles, combining skill and luck for a fun challenge.<\/li>\n    <li><strong>Sic Bo:<\/strong> A dice-based game offering multiple betting options and fast-paced excitement.<\/li>\n  <\/ul>\n<br>\n\n\n       <strong> <h1>Bonuses, Promotions &amp; Prize Pools<\/h1>      <\/strong>\n\n  <p>Casino Canberra offers multiple ways to enhance your gaming experience:<\/p>\n<br>\n  <ul>\n    <li>\n      <strong>Infinity Rewards Program:<\/strong>\n      Members earn points on table games and redeem them for dining, drinks, and VIP perks.\n      Higher tiers unlock private gaming rooms and complimentary services.\n    <\/li>\n    <li>\n<br>\n      <strong>Tiered Benefits:<\/strong>\n      Gold, Ruby, and Diamond levels with food &amp; beverage discounts (10%, 15%, 20%),\n      priority reservations, free parking options, and personal host services at top tiers.\n    <\/li>\n    <li>\n<br>\n      <strong>Spinfinity Rewards:<\/strong>\n      Weekly prize draws with promotional chips, dining vouchers, luxury gifts, and exclusive member experiences.\n    <\/li>\n    <li>\n<br>\n      <strong>Seasonal Promotions:<\/strong>\n      Limited-time offers and themed events featuring bonus points, special menus, and entertainment packages.\n    <\/li>\n    <li>\n<br>\n      <strong>Gaming Tournaments:<\/strong>\n      Competitive Blackjack, Mini Baccarat, and Roulette tournaments with prize pools up to <strong>$3,000<\/strong>.\n    <\/li>\n  <\/ul>\n\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "What language is used during games at Casino Canberra?",
+                    "answer": "All games and services are conducted in English. This includes table games, poker, instructions, and communication with staff."
+                },
+                {
+                    "title": "Are there poker tournaments?",
+                    "answer": "Yes! Regular tournaments are held with buy-ins starting from $60, free rolls with prize pools, and cash games. You can check the schedule on the website or ask staff."
+                },
+                {
+                    "title": "Is there a hotel at the casino?",
+                    "answer": "The casino does not have its own hotel, but the Crowne Plaza Canberra is located nearby and is a popular choice for guests."
+                },
+                {
+                    "title": "What are the minimum bets at Casino Canberra?",
+                    "answer": "Minimum bets vary by game and table:\n\nBlackjack: from $5 to $50 depending on the table\nRoulette: typically starts from $1 per chip\nPoker tournaments: buy-ins from $60\nMaximum bets can reach up to $2,000 on high-stakes tables."
+                },
+                {
+                    "title": "Do I need to make a deposit to play?",
+                    "answer": "Casino Canberra is a land-based casino, so you play with cash or chips purchased on-site. There is no online deposit system. For poker tournaments, buy-ins are paid directly at the poker desk."
+                },
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "At the venue, you can use:\n\nCash\nCredit\/Debit cards (for purchasing chips or dining)\nBank transfers (for larger transactions, by prior arrangement)"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/110",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Canberra Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
